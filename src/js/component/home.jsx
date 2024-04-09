@@ -18,7 +18,9 @@ const Home = () => {
 
 				</div>
 			</div>
-			<Footer />
+			<div className="container">
+				<Footer />
+			</div>
 		</div>
 
 	);
