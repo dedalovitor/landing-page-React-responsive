@@ -1,5 +1,6 @@
 import React from "react";
 import Card from "./card";
+import Footer from "./footer";
 
 
 
@@ -17,6 +18,7 @@ const Home = () => {
 
 				</div>
 			</div>
+			<Footer />
 		</div>
 
 	);
